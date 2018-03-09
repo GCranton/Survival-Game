@@ -46,10 +46,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\DoorLogic.cs" />
      <Compile Include="Assets\PlayerHealth.cs" />
+     <Compile Include="Assets\RespawnMenu.cs" />
      <Compile Include="Assets\Scripts\AISimple.cs" />
      <Compile Include="Assets\Scripts\AdvancedAI.cs" />
+     <Compile Include="Assets\Scripts\DoorLogic.cs" />
      <Compile Include="Assets\Scripts\EnemyLogic.cs" />
      <Compile Include="Assets\Scripts\MeleeEngine.cs" />
      <Compile Include="Assets\Scripts\Sounds.cs" />
